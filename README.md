@@ -1,2 +1,2 @@
 # my-practies
-all random files
+ALL PRACTICES FILES
